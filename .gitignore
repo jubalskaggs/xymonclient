@@ -1,5 +1,3 @@
 .ssh
-tmp/*
-logs/*
 .bash_history
 .viminfo
